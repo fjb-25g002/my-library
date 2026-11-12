@@ -1,3 +1,3 @@
-export function hello(){
+function hello(){
   return "hello github!";
 }
